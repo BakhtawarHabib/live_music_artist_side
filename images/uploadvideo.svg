@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="131" height="70" viewBox="0 0 131 70">
+  <g id="Group_9381" data-name="Group 9381" transform="translate(-243 -733)">
+    <g id="Rectangle_1954" data-name="Rectangle 1954" transform="translate(243 733)" fill="#4e4e4d" stroke="#d5d5d5" stroke-linecap="round" stroke-width="2" stroke-dasharray="10">
+      <rect width="131" height="70" rx="9" stroke="none"/>
+      <rect x="1" y="1" width="129" height="68" rx="8" fill="none"/>
+    </g>
+    <g id="Icon_feather-upload" data-name="Icon feather-upload" transform="translate(299.078 745)">
+      <path id="Path_10563" data-name="Path 10563" d="M23.5,22.5v4.222a2.111,2.111,0,0,1-2.111,2.111H6.611A2.111,2.111,0,0,1,4.5,26.722V22.5" transform="translate(-4.5 -9.833)" fill="none" stroke="#d5d5d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_10564" data-name="Path 10564" d="M21.056,9.778,15.778,4.5,10.5,9.778" transform="translate(-6.278 -4.5)" fill="none" stroke="#d5d5d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_10565" data-name="Path 10565" d="M18,4.5V17.167" transform="translate(-8.5 -4.5)" fill="none" stroke="#d5d5d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <text id="Upload_Video_Concert_" data-name="Upload Video (Concert)" transform="translate(257 791)" fill="#d5d5d5" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Upload Video (Concert)</tspan></text>
+    <path id="Icon_awesome-video" data-name="Icon awesome-video" d="M12.35,4.5H1.756A1.756,1.756,0,0,0,0,6.256V16.85a1.756,1.756,0,0,0,1.756,1.756H12.35a1.756,1.756,0,0,0,1.756-1.756V6.256A1.756,1.756,0,0,0,12.35,4.5Zm6.957,1.385L15.281,8.662v5.782l4.026,2.773a1.178,1.178,0,0,0,1.851-.948V6.833A1.178,1.178,0,0,0,19.307,5.885Z" transform="translate(248.921 735.421)" fill="#d5d5d5" stroke="#d5d5d5" stroke-width="1"/>
+  </g>
+</svg>

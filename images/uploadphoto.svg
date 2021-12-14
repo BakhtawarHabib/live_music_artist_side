@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="131" height="70" viewBox="0 0 131 70">
+  <g id="Group_9378" data-name="Group 9378" transform="translate(-43 -733)">
+    <g id="Group_9380" data-name="Group 9380">
+      <g id="Group_9379" data-name="Group 9379">
+        <g id="Rectangle_2148" data-name="Rectangle 2148" transform="translate(43 733)" fill="#484847" stroke="#d5d5d5" stroke-linecap="round" stroke-width="2" stroke-dasharray="10">
+          <rect width="131" height="70" rx="9" stroke="none"/>
+          <rect x="1" y="1" width="129" height="68" rx="8" fill="none"/>
+        </g>
+      </g>
+      <g id="Icon_feather-upload" data-name="Icon feather-upload" transform="translate(98.808 745)">
+        <path id="Path_10563" data-name="Path 10563" d="M23.5,22.5v4.222a2.111,2.111,0,0,1-2.111,2.111H6.611A2.111,2.111,0,0,1,4.5,26.722V22.5" transform="translate(-4.5 -9.833)" fill="none" stroke="#d5d5d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Path_10564" data-name="Path 10564" d="M21.056,9.778,15.778,4.5,10.5,9.778" transform="translate(-6.278 -4.5)" fill="none" stroke="#d5d5d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Path_10565" data-name="Path 10565" d="M18,4.5V17.167" transform="translate(-8.5 -4.5)" fill="none" stroke="#d5d5d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <text id="Upload_Photo_Concert_" data-name="Upload Photo (Concert)" transform="translate(56 791)" fill="#d5d5d5" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Upload Photo (Concert)</tspan></text>
+      <path id="Icon_awesome-image" data-name="Icon awesome-image" d="M18.189,19.553H1.882A1.882,1.882,0,0,1,0,17.671V6.382A1.882,1.882,0,0,1,1.882,4.5H18.189A1.882,1.882,0,0,1,20.07,6.382v11.29A1.882,1.882,0,0,1,18.189,19.553ZM4.39,6.7a2.2,2.2,0,1,0,2.2,2.2A2.2,2.2,0,0,0,4.39,6.7ZM2.509,17.044H17.562v-4.39L14.131,9.223a.47.47,0,0,0-.665,0L8.154,14.535,5.977,12.359a.47.47,0,0,0-.665,0l-2.8,2.8Z" transform="translate(48.737 734.947)" fill="#484847" stroke="#d5d5d5" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
